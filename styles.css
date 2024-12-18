@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+.item {
+	width:50%;
+	padding:10px;
+}
+
+p.last-child{
+	color:red;
+}
+p.first-child{
+	color:white;
+	background-color:black;
+}
+body.root {
+	background-color:rgb(135, 206, 235);
+}
